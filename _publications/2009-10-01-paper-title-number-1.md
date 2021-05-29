@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Three-Dimensional Porous Graphene Aerogel Cathode with High Sulfur Loading and Embedded TiO2 Nanoparticles for Advanced Lithium–Sulfur Batteries"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2016-10-26-paper-title-number-1
+excerpt: 'Three-dimensional graphene aerogel/TiO2/sulfur (GA/TiO2/S) composites are synthesized through a facile, one-pot hydrothermal route as the cathode for lithium–sulfur batteries. With a high sulfur content of 75.1 wt %, the conductive, highly porous composite electrode delivers a high discharge capacity of 512 mA h/g after 250 cycles at a current rate of 1 C with a low capacity decay of 0.128% per cycle. The excellent capacities and cyclic stability arise from several unique functional features of the cathode. (i) The conductive graphene aerogel framework ameliorates ion/electron transfer while accommodating the volume expansion induced during discharge, and (ii) TiO2 nanoparticles play an important role in restricting the dissolution of polysulfides by chemical bonds with sulfur.'
+date: 2016-10-26
+venue: 'ACS applied materials & interfaces'
+paperurl: 'https://pubs.acs.org/doi/abs/10.1021/acsami.6b10032'
+citation: 'Huang JQ, Wang Z, Xu ZL, Chong WG, Qin X, Wang X, Kim JK. Three-dimensional porous graphene aerogel cathode with high sulfur loading and embedded TiO2 nanoparticles for advanced lithium–sulfur batteries. ACS applied materials & interfaces. 2016 Oct 26;8(42):28663-70.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Three-dimensional graphene aerogel/TiO2/sulfur (GA/TiO2/S) composites are synthesized through a facile, one-pot hydrothermal route as the cathode for lithium–sulfur batteries. With a high sulfur content of 75.1 wt %, the conductive, highly porous composite electrode delivers a high discharge capacity of 512 mA h/g after 250 cycles at a current rate of 1 C with a low capacity decay of 0.128% per cycle. The excellent capacities and cyclic stability arise from several unique functional features of the cathode. (i) The conductive graphene aerogel framework ameliorates ion/electron transfer while accommodating the volume expansion induced during discharge, and (ii) TiO2 nanoparticles play an important role in restricting the dissolution of polysulfides by chemical bonds with sulfur.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://doi.org/10.1021/acsami.6b10032)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
