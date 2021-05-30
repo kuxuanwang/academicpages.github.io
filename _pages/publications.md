@@ -24,3 +24,7 @@ My lastest publications are listed on [Google Scholar](https://scholar.google.co
 </center>
 
 ## Energy storage material
+* [In Situ TEM Study of Volume Expansion in Porous Carbon Nanofiber/Sulfur Cathodes with Exceptional High‐Rate Performance](https://doi.org/10.1002/aenm.201602078). Zheng‐Long Xu, Jian‐Qiu Huang, Woon Gie Chong, Xianying Qin, **Xiangyu Wang**, Limin Zhou, Jang‐Kyo Kim, Advanced Energy Materials, 2017.
+* [Lithium–sulfur battery cable made from ultralight, flexible graphene/carbon nanotube/sulfur composite fibers](https://doi.org/10.1002/adfm.201604815). Woon Gie Chong, Jian‐Qiu Huang, Zheng‐Long Xu, Xianying Qin, **Xiangyu Wang**, Jang‐Kyo Kim, Advanced Functional Materials, 2017.
+* [Three-Dimensional Porous Graphene Aerogel Cathode with High Sulfur Loading and Embedded TiO2 Nanoparticles for Advanced Lithium–Sulfur Batteries](https://doi.org/10.1021/acsami.6b10032). Jian-Qiu Huang, Zhenyu Wang, Zheng-Long Xu, Woon Gie Chong, Xianying Qin, **Xiangyu Wang**, Jang-Kyo Kim, 2017.
+* [TUNABLE AND SCALABLE SYNTHESIS OF HIERARCHICAL POROUS NANOCARBON/SULFUR COMPOSITE CATHODES](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2018006557). KIM Jang-Kyo, XU Zhenglong, HUANG Jianqiu, CHONG Woon Gie, QIN Xianying, **WANG Xiangyu**, US Patent WO/2018/006557, 2018.
