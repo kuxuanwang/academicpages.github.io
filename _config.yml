@@ -83,8 +83,8 @@ author:
   name             : "Wang Xiangyu"
   avatar           : "ID photo.jpg"
   bio              : "PhD Candidate@MAE.HKUST"
-  location         : "ClearwaterBay, Hong Kong"
-  employer         :
+  location         : 
+  employer         : "ClearwaterBay, Hong Kong"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KlC5rHIAAAAJ"
   email            : "xwangbn@connect.ust.hk"
