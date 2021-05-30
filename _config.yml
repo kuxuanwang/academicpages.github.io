@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Wang Xiangyu"
 description              : &description "PhD Candidate@HKUST"
 url                      : https://kuxuanwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "index.md" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kuxuanwang/kuxuanwang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -83,7 +83,7 @@ author:
   name             : "Wang Xiangyu"
   avatar           : "ID photo.jpg"
   bio              : "PhD Candidate@MAE.HKUST"
-  location         : "Clearwater Bay, Hong Kong"
+  location         : "ClearwaterBay, Hong Kong"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KlC5rHIAAAAJ"
