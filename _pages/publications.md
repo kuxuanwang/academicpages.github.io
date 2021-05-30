@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-The lastest publications are listed on [Google Scholar](https://scholar.google.com/citations?user=KlC5rHIAAAAJ&hl=en).
+My lastest publications are listed on [Google Scholar](https://scholar.google.com/citations?user=KlC5rHIAAAAJ&hl=en).
 
 ## Additive manufacturing
 
