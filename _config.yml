@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Wang Xiangyu"
 description              : &description "PhD Candidate@HKUST"
 url                      : https://kuxuanwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "myprofile.md" # the subpath of your site, e.g. "/blog"
+baseurl                  : "index.md" # the subpath of your site, e.g. "/blog"
 repository               : "kuxuanwang/kuxuanwang.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
