@@ -8,3 +8,4 @@ redirect_from:
   - /about.html
 ---
 
+I am a researcher in CAD/CAM, mainly focus on model decomposition, curve layers generation and path planning in additive manufacturing.
