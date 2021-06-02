@@ -1,10 +1,8 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
 permalink: /teaching/
 venue: "HKUST, Mechanical and Aerospace Engineering Department"
-date: 2019-01-01
 location: "Hong Kong, China"
 ---
 
