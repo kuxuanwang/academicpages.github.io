@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Harbin Institute of Technology, 2014
+* M.Sc. in Hong Kong University of Science and Technology, 2015
+* Ph.D in Hong Kong University of Science and Technology, 2022 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2015-2017: Research Assistant
+  * Hong Kong University of Science and Technology
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor KIM Jang-Kyo
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2017-2018: Research Assistant
+  * Hong Kong University of Science and Technology
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Professor TANG Kai
   
 Skills
 ======
