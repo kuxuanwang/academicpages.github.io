@@ -4,7 +4,7 @@ title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 ---
-## TA duties @MAE.HKUST
+## Teaching Assistant @MAE.HKUST
 
 * 2020-21 Fall Postgraduate Course
     MESF 5520 - Fundamentak Theories and Algorithm of CAD/CAM/CAE
