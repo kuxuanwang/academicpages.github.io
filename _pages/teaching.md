@@ -6,6 +6,9 @@ author_profile: true
 ---
 ## Teaching Assistant @MAE.HKUST
 
+* 2021-22 Fall Postgraduate Course
+    MESF 5520 - Fundamentak Theories and Algorithm of CAD/CAM/CAE
+
 * 2020-21 Fall Postgraduate Course
     MESF 5520 - Fundamentak Theories and Algorithm of CAD/CAM/CAE
 
