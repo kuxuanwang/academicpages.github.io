@@ -13,6 +13,8 @@ My lastest publications are listed on [Google Scholar](https://scholar.google.co
 
 ## Additive manufacturing
 
+* Adaptive voxel-base volume decompostion and support-free printing by 3-axis motion, drafting
+
 * Multi-Axis Support-Free Printing of Freeform Parts with Lattice Infill Structures. Yamin Li, Kai Tang, Dong He, **Xiangyu Wang**, Computer-Aided Design, 2021. [[Paper]](https://doi.org/10.1016/j.cad.2020.102986)
 <center class="half">
     <img src="/images/lattice_pic1.jpg" width="300"/><img src="/images/lattice_pic2.jpg" width="300"/>
