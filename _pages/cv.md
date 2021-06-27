@@ -24,4 +24,3 @@ Work experience
 * 2017-2018: Research Assistant
   * Hong Kong University of Science and Technology
   * Supervisor: Professor TANG Kai
-
