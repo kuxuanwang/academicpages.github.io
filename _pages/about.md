@@ -16,4 +16,4 @@ Currently, as a researcher in CAD/CAM, I mainly focus on model decomposition, cu
 My current research topics:
 * Process planning for multi-axis support-free 3D printing.
 * Camera-based adaptive and interactive 3D printing.
-* Isosurface re-constructing from 3D image .
+* Isosurface re-constructing from 3D image.
