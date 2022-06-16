@@ -21,4 +21,11 @@ My current research topics:
 * Field-based curved layer slicing for 5-axis fabrication.
 * Camera-based adaptive and interactive 3D printing.
 
-<a href="https://clustrmaps.com/site/1boz7" title="Visit tracker"><img style="float: right;" src="//www.clustrmaps.com/map_v2.png?d=-qcUVnRqAVK9CngUGvvpr5mKbTj84Lq5Akfa4yoL5f0&cl=ffffff"></a>
+<body>
+    <p style="text-align: center;">
+
+          <a href="https://clustrmaps.com/site/1boz7" title="Visit tracker">
+          <img style="float: right;" src="//www.clustrmaps.com/map_v2.png?d=-qcUVnRqAVK9CngUGvvpr5mKbTj84Lq5Akfa4yoL5f0&cl=ffffff">
+          </a>
+    </p>
+</body>
