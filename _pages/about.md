@@ -25,7 +25,8 @@ My current research topics:
     <p style="text-align: center;">
 
           <a href="https://clustrmaps.com/site/1boz7" title="Visit tracker">
-            <" src="//www.clustrmaps.com/map_v2.png?d=-qcUVnRqAVK9CngUGvvpr5mKbTj84Lq5Akfa4yoL5f0&cl=ffffff">
+            <"img src="//www.clustrmaps.com/map_v2.png?d=-qcUVnRqAVK9CngUGvvpr5mKbTj84Lq5Akfa4yoL5f0&cl=ffffff">
           </a>
     </p>
 </body>
+                                                                                                          
