@@ -26,5 +26,4 @@ Work experience
   * Supervisor: Professor TANG Kai
 
 * 2022-current: Algorithm Engineer
-  * Bambu Lab, Shenzhen
-  * https://bambulab.com/en 
+  * [Bambu Lab](https://bambulab.com/en), Shenzhen
