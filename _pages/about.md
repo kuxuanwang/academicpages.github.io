@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fun and researcher in 3D printing, geometry processing, and computer graphics. My work is to develop new algorithms to improve and enrich current slicing software with more and more easy-to-use and reliable functions. Currently, I am employed by Bambu Lab, a promising start-up 3D printing company, as an algorithm engineer after graduation from HKUST, Aug., 2022, based out of Shenzhen. 
+I am a fan and researcher in 3D printing, geometry processing, and computer graphics. My work is to develop new algorithms to improve and enrich current slicing software with more and more easy-to-use and reliable functions. Currently, I am employed by Bambu Lab, a promising start-up 3D printing company, as an algorithm engineer after graduation from HKUST, Aug., 2022, based out of Shenzhen. 
 
 Previously, I received my PhD in CAD/CAM supervised by [Prof. Tang Kai](https://mektang.people.ust.hk/), at the Department of Mechanical and Aerospace Engineering, Hong Kong University of Science and Technology.  Before joining Prof.Tang's group, I was a research assistant in [Prof.Kim's group](https://seng.ust.hk/about/people/faculty/jang-kyo-kim) on Li-S battery. Prior to this, I received B.E. in the School of Mechatronics Engineering of Harbin Institute of Technology and was proud of being a member in the HITCRT (HIT Competitive Robot Team).
 
