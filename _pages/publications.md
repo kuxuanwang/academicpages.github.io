@@ -16,7 +16,6 @@ My lastest publications are listed on [Google Scholar](https://scholar.google.co
 * Voxel-based orthogonal support-free FDM, under review .
 
 * A new visual-guided and partition-based multi-setup 3D printing system. Xiaoke Deng, Zhaoyu Li, **Xiangyu Wang**, Fan Shi, Kai Tang, Jounarl of Manufacturing Systems, 2023. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0278612522002321?via%3Dihub)
-* 
 
 * Multi-Axis Support-Free Printing of Freeform Parts with Lattice Infill Structures. Yamin Li, Kai Tang, Dong He, **Xiangyu Wang**, Computer-Aided Design, 2021. [[Paper]](https://doi.org/10.1016/j.cad.2020.102986)
 <center class="half">
