@@ -27,3 +27,8 @@ Work experience
 
 * 2022-current: Algorithm Engineer
   * [Bambu Lab](https://bambulab.com/en), Shenzhen
+
+
+Skills
+=====
+C/C++, python, matlab, CMake
